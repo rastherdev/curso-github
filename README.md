@@ -15,3 +15,5 @@ hola readme alv xd jajsaja
 
 ##### estos cambios son nuevos desde mi repositorio local
 carnal vamos en el curso 3
+##### estos cambios son nuevos desde github
+carnal vamos en el curso 3
