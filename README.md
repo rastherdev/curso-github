@@ -11,3 +11,7 @@ probar si sale el warning
 
 #### si jalara?
 hola readme alv xd jajsaja
+
+
+##### estos cambios son nuevos
+carnal vamos en el curso 3
