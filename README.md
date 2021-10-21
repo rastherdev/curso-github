@@ -14,6 +14,6 @@ hola readme alv xd jajsaja
 
 
 ##### estos cambios son nuevos desde mi repositorio local
-carnal vamos en el curso 10
+carnal vamos en el curso 20
 ##### estos cambios son nuevos desde github
-carnal vamos en el curso 12
+carnal vamos en el curso 20
