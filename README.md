@@ -13,5 +13,5 @@ probar si sale el warning
 hola readme alv xd jajsaja
 
 
-##### estos cambios son nuevos
+##### estos cambios son nuevos desde github
 carnal vamos en el curso 3
